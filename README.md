@@ -1,3 +1,7 @@
+# Azcopy
+
+azcopy.exe is needed to run the azcopy commands from the script and the path needs to be defined in the "Start-Process" command
+
 # AzcopySync
 
 AzcopySync will connect to the directed blob storage account and sync all files from it to the chosen localpath. 
